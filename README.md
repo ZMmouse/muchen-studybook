@@ -1,2 +1,3 @@
-# MCBlog
-这或许是个记录。。。
+# Headline
+
+> An awesome project.
