@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="https://github.com/ZMmouse/muchen-studybook/blob/docs/assets/avatar.jpeg">
+<img width="180px" style="border-radius: 50%" bor src="https://raw.githubusercontent.com/ZMmouse/muchen-studybook/docs/assets/avatar.jpeg">
 
 # 慕尘
 
