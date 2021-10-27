@@ -1,8 +1,8 @@
-<img width="180px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
+<img width="180px" style="border-radius: 50%" bor src="https://github.com/ZMmouse/muchen-studybook/blob/docs/assets/avatar.jpeg">
 
-# 一个非人类学习记录
+# 慕尘
 
-- 这是一个非人类的学习记录
+- 也许是一个学习记录
 
-[GitHub](<https://github.com/ZMmouse/MCBlog>)
+[GitHub](<https://zmmouse.github.io/muchen-studybook/#/README>)
 [开始阅读](README.md)
