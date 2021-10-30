@@ -52,6 +52,7 @@ linkNode.next.next = new LinkNode(4);
 console.log(linkNode);
 ```
 
+
 ### 3. 算法题
 1. [判断是否是环形链表](../arithmetic/环形列表)
 2. [判断环形链表的起始点](../arithmetic/环形列表)
